@@ -4,11 +4,11 @@ Hey! This is my attendance tracking project for college. Got tired of manually c
 
 ## About Me
 
-**Name:** [Your Name]  
-**Roll No:** [Your Roll Number]  
+**Name:** PADMA TRIPATHI 
+**Roll No:** 24BSA10137 
 **Branch:** BTech CSE - Cloud Computing (2nd Year)  
 **College:** VIT Bhopal  
-**When:** November 2025
+
 
 ## Why I Made This
 
